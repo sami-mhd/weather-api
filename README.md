@@ -108,11 +108,6 @@ or directly open the ***index.html*** file from the directory.
 Click the "Get Weather" button to retrieve the weather forecast.
 The frontend will send a request to the running API and display the weather data including temperature, humidity, wind speed, and description.`
 
-For your reference, please see the app interface below.
-
-![Weather Forcast](./images/app.png)
-
-
 
 ## API Endpoints
 
