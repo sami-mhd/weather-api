@@ -1,9 +1,9 @@
 from flask import Flask, jsonify, request
 import requests
-from flask_cors import CORS
+from flask_cors import CORS  # Import CORS
 
 app = Flask(__name__)
-CORS(app)
+CORS(app)  # Enable CORS for all routes
 
 API_KEY = '5ccc694960fa44a14945d4e559ed8b98'
 BASE_URL = 'http://api.openweathermap.org/data/2.5/weather'
