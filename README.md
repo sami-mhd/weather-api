@@ -1,5 +1,28 @@
 # Weather Forecast API Documentation
 
+<br>
+<br>
+
+# Team Collaboration Overview
+In our recent work on the project, we’ve all contributed to different aspects, making progress together.
+
+### 221086-Sami / Github sami-mhd
+
+    On the feature-api-development branch, I created the api.py file, which contains the main logic for our weather API, including the endpoints that connect to the OpenWeatherMap service. I also put together the complete documentation to ensure that everything is well-explained and easy to understand for anyone working on the project.
+
+### 221060-Huzaifa / Github Uzaifa123
+
+    Over on the feature-test branch, Huzaifa worked on the index.html file, which serves as the main user interface. He also focused on writing unit tests to ensure everything is functioning as expected. These tests are crucial for catching any issues early and maintaining code quality.
+
+### 221094-Zulkha / Github zulkha-tariq
+
+    On the feature-server branch, Zulkha developed the server.py application, which handles our server setup. She also updated the index.html file to make the frontend more elegant and user-friendly, enhancing the overall experience for our users.
+
+Our collaboration has led to a solid foundation for the project, with a well-functioning API, thorough testing, an attractive interface, and comprehensive documentation. 
+
+
+
+
 ## Purpose of the API
 
 The purpose of this API is to provide weather information for any specified city by interacting with the [OpenWeatherMap](www.openweathermap.org) API to fetch real-time weather data. This weather forecasting API is built using Flask as the backend and serves current weather information, including temperature, humidity, wind speed, and weather description.
@@ -221,25 +244,6 @@ This defines a route for the root URL (/). When someone accesses this URL, the i
 
 This starts the second Flask application on port 5001, also in debug mode.
 
-<br>
-<br>
-
-# Team Collaboration Overview
-In our recent work on the project, we’ve all contributed to different aspects, making progress together.
-
-### 221086-Sami / Github: sami-mhd
-
-    On the feature-api-development branch, I created the api.py file, which contains the main logic for our weather API, including the endpoints that connect to the OpenWeatherMap service. I also put together the complete documentation to ensure that everything is well-explained and easy to understand for anyone working on the project.
-
-### 221060-Huzaifa / Github: Uzaifa123
-
-    Over on the feature-test branch, Huzaifa worked on the index.html file, which serves as the main user interface. He also focused on writing unit tests to ensure everything is functioning as expected. These tests are crucial for catching any issues early and maintaining code quality.
-
-### 221094-Zulkha / Github: zulkha-tariq
-
-    On the feature-server branch, Zulkha developed the server.py application, which handles our server setup. She also updated the index.html file to make the frontend more elegant and user-friendly, enhancing the overall experience for our users.
-
-Overall, our collaboration has led to a solid foundation for the project, with a well-functioning API, thorough testing, an attractive interface, and comprehensive documentation. We’re excited to keep building on this progress!
 
 ## Additional Notes
 
