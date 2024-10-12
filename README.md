@@ -1,9 +1,6 @@
 # Weather Forecast API Documentation
 
-<br>
-<br>
-
-# Team Collaboration Overview
+## Team Collaboration Overview
 In our recent work on the project, we’ve all contributed to different aspects, making progress together.
 
 ### 221086-Sami / Github sami-mhd
